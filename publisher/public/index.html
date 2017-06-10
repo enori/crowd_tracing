@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Publish / Remote Control</title>
+  </head>
+
+  <body>
+    <h2>Publish Message / Remote Control</h2>
+		select the command on remote battery
+
+		<form name="form1" action="">
+			<input type="radio" name="mes" value="1">stop</br>
+			<input type="radio" name="mes" value="2">pause</br>
+			<input type="radio" name="mes" value="3">start</br></br>
+			<input type="button" value="send" onclick="check()">
+		</form>
+
+		<script type="text/javascript" src="js/mqttws31.js"></script>
+		<script type="text/javascript" src="js/publisher.js"></script>
+  </body>
+</html>
