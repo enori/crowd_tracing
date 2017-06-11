@@ -57,7 +57,7 @@ Install the Bleno, Bleutooth Low Energy library with JavaScript.
 For running program, type this command on your terminal.
 
 ```
-node server.js
+node advertise.js
 ```
 
 Raspberry Pi will start to broadcast the packets alternately.  
