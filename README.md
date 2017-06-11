@@ -6,6 +6,12 @@
 This is the prototype of new messaging system 'Crowd Tracing System.'  
 Crowd Tracing System delivers messages from Internet devices to Non-Internet devices via anonymous smartphones.
 
+<img src="https://raw.githubusercontent.com/wiki/koduke/crowd_tracing/images/crowd_tracing.png" width="500px">
+Architecture and Messaging Flow of Crowd Tracing System
+
+<img src="https://raw.githubusercontent.com/wiki/koduke/crowd_tracing/images/prototype.png" width="400px">
+Prototype of Crowd Tracing System
+
 ## Environment
 
 Node.js >= v6.10.0
