@@ -44,7 +44,7 @@ For running program, type this command on your terminal.
 
 ```
 node server.js
-```s
+```
 
 And you open the web page that is servered by this HTTP server with a smartphone.    
 Then, you can cooperate the messaging and a Bletooth device will receive the message.
